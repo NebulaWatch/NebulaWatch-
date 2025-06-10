@@ -1,5 +1,5 @@
 {
-  "project": "Sylphia",
+  "project": "NebulaWatch",
   "version": "1.0",
   "enabledModules": ["bot", "sybil", "whale", "flashloan"],
   "maxRequestsPerMinute": 60,
